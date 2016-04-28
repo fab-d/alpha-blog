@@ -1,0 +1,143 @@
+[33mcommit ecd6518fead70496b257c077a61d0acf4e15ca5e[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 15:21:44 2016 +0000
+
+    create show actions, add gravatar
+
+[33mcommit 12d2365afce79b05a0a7d1ff55ea4d78977deaba[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 13:51:34 2016 +0000
+
+    Add edit update functionalities
+
+[33mcommit fa3bd241fac8d624b4c8a032e3e56c497df8af4d[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 13:22:54 2016 +0000
+
+    signup created
+
+[33mcommit 5e3d558576d22a686848d60362020d168cae909c[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 12:56:58 2016 +0000
+
+    add secure password
+
+[33mcommit 6cef05bb5866d0108fb591d704d2c89aae9456a8[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 12:19:17 2016 +0000
+
+    user data
+
+[33mcommit 89341afe1ecc6f00414c8fc0c14633ffda6b1b75[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 12:01:09 2016 +0000
+
+    add associations user articles
+
+[33mcommit 5a488ad1f8eea3eae620c971096d5e01c2627796[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 10:04:22 2016 +0000
+
+    add user validations
+
+[33mcommit 977b6aaf11cde6db76f398f465745d6508b28dfa[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 09:20:07 2016 +0000
+
+    create user table and model
+
+[33mcommit 1bd94dfb0390c68a84d9eb1ea73462a267824cd5[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 08:50:06 2016 +0000
+
+    styling 4
+
+[33mcommit b23229dc41b507e00e997ffa42cef1c39b9001ff[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 08:47:14 2016 +0000
+
+    styling 3
+
+[33mcommit d5d85d38ee4f9ee532bb21ef4f2a913ffa0382c9[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Thu Apr 28 08:28:49 2016 +0000
+
+    styling new
+
+[33mcommit 34d6a3f5f9f8e169fb0aa650886593e38524d37d[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 17:05:30 2016 +0000
+
+    messages
+
+[33mcommit db5d303fcbb867064bdf790cb45865a3e0d5ca54[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 16:25:52 2016 +0000
+
+    styling
+
+[33mcommit 1af87d5405c93c2da2ddf9d491ec449f669a8e6b[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 15:38:10 2016 +0000
+
+    styling
+
+[33mcommit 728c74db6bff2aa7a9a5b748de81541b32ac6ff4[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 14:28:33 2016 +0000
+
+    install bootstrap
+
+[33mcommit a1e463795e197bae04ed6f15db5edc20f60c3c8f[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 13:40:26 2016 +0000
+
+    extract redundancy
+
+[33mcommit bba5fc48cdbee707bd3bcc3df989a86d9ff4b8af[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 13:30:51 2016 +0000
+
+    Delete button added
+
+[33mcommit 90e2eda340407e859c41f5217129ce9d620d18c0[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 11:02:41 2016 +0000
+
+    add edit, update and show buttons
+
+[33mcommit 32d088c9b095bddb784b2262c627d23c8b2e5261[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 10:07:51 2016 +0000
+
+    articles and submissions
+
+[33mcommit 0179d3fb0fb7c5c75387a1289ff180e3f013234a[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 09:39:33 2016 +0000
+
+    create new template action and route
+
+[33mcommit e256421e7f5bc79a3349372554a9c0096c64d350[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Wed Apr 27 09:02:03 2016 +0000
+
+    Database
+
+[33mcommit a70fc27d12feb0ec7454af76635dfe964a11a22e[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Tue Apr 26 14:29:21 2016 +0000
+
+    Make app production ready
+
+[33mcommit 2acc2492fa018fd333641570322d4ae691c15228[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Tue Apr 26 14:02:18 2016 +0000
+
+    modify readme
+
+[33mcommit b5c9cec640fbee83f9d7510f02e64d574d3d9912[m
+Author: Fabrizio <astaroth.f@gmail.com>
+Date:   Tue Apr 26 11:31:16 2016 +0000
+
+    Create rails application and setup home and about
