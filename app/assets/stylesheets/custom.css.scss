@@ -29,6 +29,16 @@ $navbar-default-bg: black;
   
 }
 
+.badge {
+  background-color: #ffffff;
+  text-transform:uppercase;
+  letter-spacing: -1px;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
+
 .center {
   text-align: center;
 }
